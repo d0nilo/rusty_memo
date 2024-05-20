@@ -5,7 +5,7 @@ To build the application you need rust and cargo installed.
 
 Clone the repository
 ```shell
-git clone git@github.com:d0nilo/rusty_memo.git
+git clone https://github.com/d0nilo/rusty_memo.git
 ```
 Then build 
 ```shell
